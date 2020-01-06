@@ -1,7 +1,5 @@
-# tankly.github.io
+# Tankly
 App for centralize share links of our files on storage cloud services
-
-```
 
 ## License
 
